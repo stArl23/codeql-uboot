@@ -2,4 +2,4 @@ import cpp
 
 from Function f
 where f.getName()="strlen"
-select f,"a function "+f.getName()+" is called"
+select f, "a function named strlen"
